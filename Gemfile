@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.1.7'
+gem 'bcrypt'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
